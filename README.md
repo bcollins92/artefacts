@@ -1,2 +1,2 @@
 # artefacts
-Repository for artefacts that are shared by the dropbox-project
+Repository for artefacts that are shared by the directory-project
